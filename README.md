@@ -25,7 +25,7 @@ aquelas que desejam replicar a estética visual da popular plataforma de streami
 
 <br>
 
-🚩 No segundo dia foi desenvolvido a estrutura html com a section da biblioteca, conteiner, adicionado icons e a informações como botão para usuário acessar a biblioteca e cria sua playlist e abaixo do container botão linguagem. No css é realizado a estilizado e organizado os conteiner e os botões.
+🚩 No segundo dia foi desenvolvido a estrutura com a seção da biblioteca, conteiner, adicionado icons e as informações como o botão para usuário acessar a biblioteca e cria sua playlist, abaixo do container botão linguagem. No css é realizado a estilização e a organizado do conteiner e os botões.
 
 <br>
 <p align="center">
