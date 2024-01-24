@@ -25,7 +25,7 @@ aquelas que desejam replicar a estética visual da popular plataforma de streami
 
 <br>
 
-🚩 No segundo dia foi desenvolvido a estrutura com a seção da biblioteca, conteiner, adicionado icons e as informações como o botão para usuário acessar a biblioteca e cria sua playlist, abaixo do container botão linguagem. No css é realizado a estilização e a organizado do conteiner e os botões.
+🚩 No segundo dia foi desenvolvido a estrutura com a seção da biblioteca, conteiner, adicionado icons e as informações como o botão para usuário acessar a biblioteca e cria sua playlist, abaixo do container botão linguagem. No css é realizado a estilização e organização do conteiner e os botões. Finalizando com rodapé com o texto para avisa ao usuário que conta spotify premium é grátis e botão para clicar fazendo sua conta no spotify.
 
 <br>
 <p align="center">
