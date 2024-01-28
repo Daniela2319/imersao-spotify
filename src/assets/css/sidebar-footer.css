@@ -1,3 +1,7 @@
+body {
+  font-family: var(--font-dm-sans);
+}
+
 .sidebar {
   position: fixed;
   top: 0;
@@ -37,7 +41,6 @@
   text-decoration: none;
   font-weight: 600;
   font-size: 14px;
-  font-family: "DM Sans", sans-serif;
 }
 
 .library {
@@ -66,7 +69,6 @@
   border: 0px;
   font-size: 1rem;
   font-weight: 600;
-  font-family: "Montserrat", sans-serif;
   text-align: center;
   text-decoration: none;
   padding: 20px 10px;
@@ -90,7 +92,6 @@
   justify-content: space-between;
   gap: 20px;
   background-color: #242424;
-  font-family: "Montserrat", sans-serif;
   color: #b3b3b3;
   font-size: 14px;
   margin: 8px 0px;
@@ -126,7 +127,6 @@
   border-radius: 20px;
   font-size: 12px;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
   text-decoration: none;
   text-transform: none;
   padding: 10px;
@@ -182,14 +182,12 @@
   font-weight: 400;
   font-size: 12px;
   margin-bottom: 10px;
-  font-family: "DM Sans", sans-serif;
 }
 
 .disclaimer-premium__subtitle {
   color: #ffffff;
   font-size: 14px;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
 }
 
 .premium-button button {
