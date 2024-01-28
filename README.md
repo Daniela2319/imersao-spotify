@@ -32,6 +32,25 @@ aquelas que desejam replicar a estética visual da popular plataforma de streami
  <img src="https://github.com/Daniela2319/imersao-spotify/assets/106537496/12a87b2b-b408-49af-8850-baff5c8f9253" height="500" width="2000">
 </p>
 
+<br>
+🚩 No terceiro dia foi desenvolvido a estrutura navegação de busca, adicionado icon de lupa e input onde usuário podera acessar e escolher sua música favorita. Colocado dois botões para usuário se increver ou entra no login. No css é realizado a estilização do input, botões e envolta da navegação. 
+<br>
+<br>
+
+<p align="center"> 
+ <img src="https://github.com/Daniela2319/imersao-spotify/assets/106537496/f9de6941-6586-4422-ac1c-a8c64736926a" height="500" width="2000">
+</p>
+<br>
+
+<br>
+🚩 No quarto dia foi desenvolvido a estrutura main é pagina principal do site onde se localiza os card com gêneros musicais, adicionado imagem com informações inscrita com gênero musicais, onde usuário poderá acessar e escolher sua música favorita. Colocado scroll rolar para cima, baixo, direita e esquerda. No css é realizado a estilização do card, fontes e imagens. 
+<br>
+<br>
+
+<p align="center"> 
+ <img src="https://github.com/Daniela2319/imersao-spotify/assets/106537496/f2c14934-0ac8-4b8a-b39f-cf3e685e2dea" height="500" width="2000">
+</p>
+<br>
 
 # Tecnologia
 
