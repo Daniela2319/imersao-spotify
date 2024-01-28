@@ -12,15 +12,26 @@
 A Imersão Front-end para a criação de uma página inspirada na interface da Spotify é uma imersão da Alura para ensinar os fundamentos 
 essenciais de HTML e CSS.É ideal para iniciantes que desejam desenvolver habilidades práticas na construção de páginas web, especialmente
 aquelas que desejam replicar a estética visual da popular plataforma de streaming de música, Spotify.
-No primeiro dia foi desenvolvido nave-bar com estrutura html e começando a estilização com css.
 
 <br>
 
+🚩 No primeiro dia foi desenvolvido nave-bar com estrutura html e começando a estilização com css.
+
+
+<br>
 <p align="center">
  <img src="https://github.com/Daniela2319/imersao-spotify/assets/106537496/07e1723c-d03a-428b-8be5-e7ae5d71d58c" height="400" width="300">
 </p>
 
 <br>
+
+🚩 No segundo dia foi desenvolvido a estrutura com a seção da biblioteca, conteiner, adicionado icons e as informações como o botão para usuário acessar a biblioteca e cria sua playlist, abaixo do container botão linguagem. No css é realizado a estilização e organização do conteiner e os botões. Finalizando com rodapé com o texto para avisa ao usuário que conta spotify premium é grátis e botão para clicar fazendo sua conta no spotify.
+
+<br>
+<p align="center">
+ <img src="https://github.com/Daniela2319/imersao-spotify/assets/106537496/12a87b2b-b408-49af-8850-baff5c8f9253" height="500" width="2000">
+</p>
+
 
 # Tecnologia
 
